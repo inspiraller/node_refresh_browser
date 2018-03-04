@@ -1,4 +1,4 @@
-# How to refresh node automatically after updating the server.
+# How to refresh browser automatically after updating the node server file.
 
 ## Date working
 2018/03/04
