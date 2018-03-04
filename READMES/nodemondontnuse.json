@@ -1,6 +1,0 @@
-{
- "events": {
-     "start":"node delay.js && gulp",
-     "restart": ""
-   }
-}

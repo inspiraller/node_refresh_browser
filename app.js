@@ -7,5 +7,5 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 app.use(morgan('dev'));
 
-app.get('/', (req, res) => res.send('<html><head></head><body>Hello World!</body></html>'));
+app.get('/', (req, res) => res.send('<html><head></head><body>Hello</body></html>'));
 app.listen(3000, () => console.log('Example app listening on port 3000!'));
